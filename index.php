@@ -1,5 +1,2 @@
-<?php echo "đồ railway đáng ghét"?>
-<body bgcolor="red">
-  <h1>giác hơi 100 hủ toàn cơ thể</h1>
-  <h2>sssssssssssssssssss</h2>
+<h1>thatdeghet</h1>
 
